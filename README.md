@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Chaolongleg
-- And,i'm a new guy,i'm would like to looking for more valuable experiences.
+.
 - 👀 I’m interested in .
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
